@@ -326,47 +326,47 @@ ul#nav li.current a { color: #F06000; }
 }
 
 .mssql {
-  	width: 60%;
+  	width: 78%;
   	-moz-animation: mssql 2s ease;
   	-webkit-animation: mssql 2s ease;
 }
 .sql {
-  	width: 55%;
+  	width: 70%;
   	-moz-animation: sql 2s ease;
   	-webkit-animation: sql 2s ease;
 }
 .java {
-  	width: 50%;
+  	width: 80%;
   	-moz-animation: java 2s ease;
   	-webkit-animation: java 2s ease;
 }
 .c {
-  	width: 90%;
+  	width: 85%;
   	-moz-animation: c 2s ease;
   	-webkit-animation: c 2s ease;
 }
 .csharp {
-  	width: 80%;
+  	width: 75%;
   	-moz-animation: csharp 2s ease;
   	-webkit-animation: csharp 2s ease;
 }
 .cplusplus {
-  	width: 50%;
+  	width: 90%;
   	-moz-animation: cplusplus 2s ease;
   	-webkit-animation: cplusplus 2s ease;
 }
 .python {
-  	width: 60%;
+  	width: 65%;
   	-moz-animation: python 2s ease;
   	-webkit-animation: python 2s ease;
 }
 .powershell {
-  	width: 55%;
+  	width: 60%;
   	-moz-animation: powershell 2s ease;
   	-webkit-animation: powershell 2s ease;
 }
 .unix {
-  	width: 50%;
+  	width: 63%;
   	-moz-animation: unix 2s ease;
   	-webkit-animation: unix 2s ease;
 }
@@ -376,86 +376,86 @@ ul#nav li.current a { color: #F06000; }
   	-webkit-animation: html 2s ease;
 }
 .javascript {
-  	width: 80%;
+  	width: 55%;
   	-moz-animation: javascript 2s ease;
   	-webkit-animation: javascript 2s ease;
 }
 .servicenow {
-  	width: 50%;
+  	width: 78%;
   	-moz-animation: servicenow 2s ease;
   	-webkit-animation: servicenow 2s ease;
 }
 .contentmanager {
-  	width: 60%;
+  	width: 90%;
   	-moz-animation: contentmanager 2s ease;
   	-webkit-animation: contentmanager 2s ease;
 }
 .solorwinds {
-  	width: 55%;
+  	width: 78%;
   	-moz-animation: solorwinds 2s ease;
   	-webkit-animation: solorwinds 2s ease;
 }
 .microsoftazure {
-  	width: 50%;
+  	width: 70%;
   	-moz-animation: microsoftazure 2s ease;
   	-webkit-animation: microsoftazure 2s ease;
 }
 .windows {
-  	width: 90%;
+  	width: 95%;
   	-moz-animation: windows 2s ease;
   	-webkit-animation: windows 2s ease;
 }
 .linux {
-  	width: 80%;
+  	width: 83%;
   	-moz-animation: linux 2s ease;
   	-webkit-animation: linux 2s ease;
 }
 .mac {
-  	width: 50%;
+  	width: 88%;
   	-moz-animation: mac 2s ease;
   	-webkit-animation: mac 2s ease;
 }
 .vmware {
-  	width: 50%;
+  	width: 59%;
   	-moz-animation: vmware 2s ease;
   	-webkit-animation: vmware 2s ease;
 }
 
 @-moz-keyframes mssql {
   0%   { width: 0px;  }
-  100% { width: 60%;  }
+  100% { width: 78%;  }
 }
 @-moz-keyframes sql {
   0%   { width: 0px;  }
-  100% { width: 55%;  }
+  100% { width: 70%;  }
 }
 @-moz-keyframes java {
   0%   { width: 0px;  }
-  100% { width: 50%;  }
+  100% { width: 80%;  }
 }
 @-moz-keyframes c {
   0%   { width: 0px;  }
-  100% { width: 90%;  }
+  100% { width: 85%;  }
 }
 @-moz-keyframes csharp {
   0%   { width: 0px;  }
-  100% { width: 80%;  }
+  100% { width: 75%;  }
 }
 @-moz-keyframes cplusplus {
   0%   { width: 0px;  }
-  100% { width: 50%;  }
+  100% { width: 90%;  }
 }
 @-moz-keyframes python {
   0%   { width: 0px;  }
-  100% { width: 60%;  }
+  100% { width: 65%;  }
 }
 @-moz-keyframes powershell {
   0%   { width: 0px;  }
-  100% { width: 55%;  }
+  100% { width: 60%;  }
 }
 @-moz-keyframes unix {
   0%   { width: 0px;  }
-  100% { width: 50%;  }
+  100% { width: 63%;  }
 }
 @-moz-keyframes html {
   0%   { width: 0px;  }
@@ -463,76 +463,76 @@ ul#nav li.current a { color: #F06000; }
 }
 @-moz-keyframes javascritp {
   0%   { width: 0px;  }
-  100% { width: 80%;  }
+  100% { width: 55%;  }
 }
 @-moz-keyframes servicenow {
   0%   { width: 0px;  }
-  100% { width: 50%;  }
+  100% { width: 78%;  }
 }
 @-moz-keyframes contentmanager {
   0%   { width: 0px;  }
-  100% { width: 60%;  }
+  100% { width: 90%;  }
 }
 @-moz-keyframes solorwinds {
   0%   { width: 0px;  }
-  100% { width: 55%;  }
+  100% { width: 78%;  }
 }
 @-moz-keyframes microsoftazure {
   0%   { width: 0px;  }
-  100% { width: 50%;  }
+  100% { width: 70%;  }
 }
 @-moz-keyframes windows {
   0%   { width: 0px;  }
-  100% { width: 90%;  }
+  100% { width: 95%;  }
 }
 @-moz-keyframes linux {
   0%   { width: 0px;  }
-  100% { width: 80%;  }
+  100% { width: 83%;  }
 }
 @-moz-keyframes mac {
   0%   { width: 0px;  }
-  100% { width: 50%;  }
+  100% { width: 88%;  }
 }
 @-moz-keyframes vmware {
   0%   { width: 0px;  }
-  100% { width: 50%;  }
+  100% { width: 59%;  }
 }
 
 @-webkit-keyframes mssql {
   0%   { width: 0px;  }
-  100% { width: 60%;  }
+  100% { width: 78%;  }
 }
 @-webkit-keyframes sql {
   0%   { width: 0px;  }
-  100% { width: 55%;  }
+  100% { width: 70%;  }
 }
 @-webkit-keyframes java {
   0%   { width: 0px;  }
-  100% { width: 50%;  }
+  100% { width: 80%;  }
 }
 @-webkit-keyframes c {
   0%   { width: 0px;  }
-  100% { width: 90%;  }
+  100% { width: 85%;  }
 }
 @-webkit-keyframes csharp {
   0%   { width: 0px;  }
-  100% { width: 80%;  }
+  100% { width: 75%;  }
 }
 @-webkit-keyframes cplusplus {
   0%   { width: 0px;  }
-  100% { width: 50%;  }
+  100% { width: 90%;  }
 }
 @-webkit-keyframes python {
   0%   { width: 0px;  }
-  100% { width: 60%;  }
+  100% { width: 65%;  }
 }
 @-webkit-keyframes powershell {
   0%   { width: 0px;  }
-  100% { width: 55%;  }
+  100% { width: 60%;  }
 }
 @-webkit-keyframes unix {
   0%   { width: 0px;  }
-  100% { width: 50%;  }
+  100% { width: 63%;  }
 }
 @-webkit-keyframes html {
   0%   { width: 0px;  }
@@ -540,39 +540,39 @@ ul#nav li.current a { color: #F06000; }
 }
 @-webkit-keyframes javascritp {
   0%   { width: 0px;  }
-  100% { width: 80%;  }
+  100% { width: 55%;  }
 }
 @-webkit-keyframes servicenow {
   0%   { width: 0px;  }
-  100% { width: 50%;  }
+  100% { width: 78%;  }
 }
 @-webkit-keyframes contentmanager {
   0%   { width: 0px;  }
-  100% { width: 60%;  }
+  100% { width: 90%;  }
 }
 @-webkit-keyframes solorwinds {
   0%   { width: 0px;  }
-  100% { width: 55%;  }
+  100% { width: 78%;  }
 }
 @-webkit-keyframes microsoftazure {
   0%   { width: 0px;  }
-  100% { width: 50%;  }
+  100% { width: 70%;  }
 }
 @-webkit-keyframes windows {
   0%   { width: 0px;  }
-  100% { width: 90%;  }
+  100% { width: 95%;  }
 }
 @-webkit-keyframes linux {
   0%   { width: 0px;  }
-  100% { width: 80%;  }
+  100% { width: 83%;  }
 }
 @-webkit-keyframes mac {
   0%   { width: 0px;  }
-  100% { width: 50%;  }
+  100% { width: 88%;  }
 }
 @-webkit-keyframes vmware {
   0%   { width: 0px;  }
-  100% { width: 50%;  }
+  100% { width: 59%;  }
 }
 
 /* ------------------------------------------------------------------ */
