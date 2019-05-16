@@ -325,83 +325,252 @@ ul#nav li.current a { color: #F06000; }
    border-radius: 3px 0 0 3px;
 }
 
-.photoshop {
+.mssql {
   	width: 60%;
-  	-moz-animation: photoshop 2s ease;
-  	-webkit-animation: photoshop 2s ease;
+  	-moz-animation: mssql 2s ease;
+  	-webkit-animation: mssql 2s ease;
 }
-.illustrator {
+.sql {
   	width: 55%;
-  	-moz-animation: illustrator 2s ease;
-  	-webkit-animation: illustrator 2s ease;
+  	-moz-animation: sql 2s ease;
+  	-webkit-animation: sql 2s ease;
 }
-.wordpress {
+.java {
   	width: 50%;
-  	-moz-animation: wordpress 2s ease;
-  	-webkit-animation: wordpress 2s ease;
+  	-moz-animation: java 2s ease;
+  	-webkit-animation: java 2s ease;
 }
-.css {
+.c {
   	width: 90%;
-  	-moz-animation: css 2s ease;
-  	-webkit-animation: css 2s ease;
+  	-moz-animation: c 2s ease;
+  	-webkit-animation: c 2s ease;
 }
-.html5 {
+.csharp {
   	width: 80%;
-  	-moz-animation: html5 2s ease;
-  	-webkit-animation: html5 2s ease;
+  	-moz-animation: csharp 2s ease;
+  	-webkit-animation: csharp 2s ease;
 }
-.jquery {
+.cplusplus {
   	width: 50%;
-  	-moz-animation: jquery 2s ease;
-  	-webkit-animation: jquery 2s ease;
+  	-moz-animation: cplusplus 2s ease;
+  	-webkit-animation: cplusplus 2s ease;
+}
+.python {
+  	width: 60%;
+  	-moz-animation: python 2s ease;
+  	-webkit-animation: python 2s ease;
+}
+.powershell {
+  	width: 55%;
+  	-moz-animation: powershell 2s ease;
+  	-webkit-animation: powershell 2s ease;
+}
+.unix {
+  	width: 50%;
+  	-moz-animation: unix 2s ease;
+  	-webkit-animation: unix 2s ease;
+}
+.html {
+  	width: 90%;
+  	-moz-animation: html 2s ease;
+  	-webkit-animation: html 2s ease;
+}
+.javascript {
+  	width: 80%;
+  	-moz-animation: javascript 2s ease;
+  	-webkit-animation: javascript 2s ease;
+}
+.servicenow {
+  	width: 50%;
+  	-moz-animation: servicenow 2s ease;
+  	-webkit-animation: servicenow 2s ease;
+}
+.contentmanager {
+  	width: 60%;
+  	-moz-animation: contentmanager 2s ease;
+  	-webkit-animation: contentmanager 2s ease;
+}
+.solorwinds {
+  	width: 55%;
+  	-moz-animation: solorwinds 2s ease;
+  	-webkit-animation: solorwinds 2s ease;
+}
+.microsoftazure {
+  	width: 50%;
+  	-moz-animation: microsoftazure 2s ease;
+  	-webkit-animation: microsoftazure 2s ease;
+}
+.windows {
+  	width: 90%;
+  	-moz-animation: windows 2s ease;
+  	-webkit-animation: windows 2s ease;
+}
+.linux {
+  	width: 80%;
+  	-moz-animation: linux 2s ease;
+  	-webkit-animation: linux 2s ease;
+}
+.mac {
+  	width: 50%;
+  	-moz-animation: mac 2s ease;
+  	-webkit-animation: mac 2s ease;
+}
+.vmware {
+  	width: 50%;
+  	-moz-animation: vmware 2s ease;
+  	-webkit-animation: vmware 2s ease;
 }
 
-@-moz-keyframes photoshop {
+@-moz-keyframes mssql {
   0%   { width: 0px;  }
   100% { width: 60%;  }
 }
-@-moz-keyframes illustrator {
+@-moz-keyframes sql {
   0%   { width: 0px;  }
   100% { width: 55%;  }
 }
-@-moz-keyframes wordpress {
+@-moz-keyframes java {
   0%   { width: 0px;  }
   100% { width: 50%;  }
 }
-@-moz-keyframes css {
+@-moz-keyframes c {
   0%   { width: 0px;  }
   100% { width: 90%;  }
 }
-@-moz-keyframes html5 {
+@-moz-keyframes csharp {
   0%   { width: 0px;  }
   100% { width: 80%;  }
 }
-@-moz-keyframes jquery {
+@-moz-keyframes cplusplus {
+  0%   { width: 0px;  }
+  100% { width: 50%;  }
+}
+@-moz-keyframes python {
+  0%   { width: 0px;  }
+  100% { width: 60%;  }
+}
+@-moz-keyframes powershell {
+  0%   { width: 0px;  }
+  100% { width: 55%;  }
+}
+@-moz-keyframes unix {
+  0%   { width: 0px;  }
+  100% { width: 50%;  }
+}
+@-moz-keyframes html {
+  0%   { width: 0px;  }
+  100% { width: 90%;  }
+}
+@-moz-keyframes javascritp {
+  0%   { width: 0px;  }
+  100% { width: 80%;  }
+}
+@-moz-keyframes servicenow {
+  0%   { width: 0px;  }
+  100% { width: 50%;  }
+}
+@-moz-keyframes contentmanager {
+  0%   { width: 0px;  }
+  100% { width: 60%;  }
+}
+@-moz-keyframes solorwinds {
+  0%   { width: 0px;  }
+  100% { width: 55%;  }
+}
+@-moz-keyframes microsoftazure {
+  0%   { width: 0px;  }
+  100% { width: 50%;  }
+}
+@-moz-keyframes windows {
+  0%   { width: 0px;  }
+  100% { width: 90%;  }
+}
+@-moz-keyframes linux {
+  0%   { width: 0px;  }
+  100% { width: 80%;  }
+}
+@-moz-keyframes mac {
+  0%   { width: 0px;  }
+  100% { width: 50%;  }
+}
+@-moz-keyframes vmware {
   0%   { width: 0px;  }
   100% { width: 50%;  }
 }
 
-@-webkit-keyframes photoshop {
+@-webkit-keyframes mssql {
   0%   { width: 0px;  }
   100% { width: 60%;  }
 }
-@-webkit-keyframes illustrator {
+@-webkit-keyframes sql {
   0%   { width: 0px;  }
   100% { width: 55%;  }
 }
-@-webkit-keyframes wordpress {
+@-webkit-keyframes java {
   0%   { width: 0px;  }
   100% { width: 50%;  }
 }
-@-webkit-keyframes css {
+@-webkit-keyframes c {
   0%   { width: 0px;  }
   100% { width: 90%;  }
 }
-@-webkit-keyframes html5 {
+@-webkit-keyframes csharp {
   0%   { width: 0px;  }
   100% { width: 80%;  }
 }
-@-webkit-keyframes jquery {
+@-webkit-keyframes cplusplus {
+  0%   { width: 0px;  }
+  100% { width: 50%;  }
+}
+@-webkit-keyframes python {
+  0%   { width: 0px;  }
+  100% { width: 60%;  }
+}
+@-webkit-keyframes powershell {
+  0%   { width: 0px;  }
+  100% { width: 55%;  }
+}
+@-webkit-keyframes unix {
+  0%   { width: 0px;  }
+  100% { width: 50%;  }
+}
+@-webkit-keyframes html {
+  0%   { width: 0px;  }
+  100% { width: 90%;  }
+}
+@-webkit-keyframes javascritp {
+  0%   { width: 0px;  }
+  100% { width: 80%;  }
+}
+@-webkit-keyframes servicenow {
+  0%   { width: 0px;  }
+  100% { width: 50%;  }
+}
+@-webkit-keyframes contentmanager {
+  0%   { width: 0px;  }
+  100% { width: 60%;  }
+}
+@-webkit-keyframes solorwinds {
+  0%   { width: 0px;  }
+  100% { width: 55%;  }
+}
+@-webkit-keyframes microsoftazure {
+  0%   { width: 0px;  }
+  100% { width: 50%;  }
+}
+@-webkit-keyframes windows {
+  0%   { width: 0px;  }
+  100% { width: 90%;  }
+}
+@-webkit-keyframes linux {
+  0%   { width: 0px;  }
+  100% { width: 80%;  }
+}
+@-webkit-keyframes mac {
+  0%   { width: 0px;  }
+  100% { width: 50%;  }
+}
+@-webkit-keyframes vmware {
   0%   { width: 0px;  }
   100% { width: 50%;  }
 }
