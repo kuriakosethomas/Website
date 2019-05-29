@@ -1123,6 +1123,7 @@ footer .copyright li:before {
     content: "\2022";
     padding-left: 10px;
     padding-right: 10px;
+    font-size: 10px;
     color: #095153;
 }
 footer .copyright  li:first-child:before {
